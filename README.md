@@ -17,6 +17,6 @@
       name (varchar 255)     
       icon (longblob, BROWSER DISPLAY TRANS:Inline image/png)
 
-<b>2. Create new folder at C:\XAMPP\htdocs\mapeditor\ to put php files</b>
+<b>2. Create new folder at "C:\XAMPP\htdocs\mapeditor\" to put php files</b>
 
 <b>3. Open http://localhost/mapeditor/view.php</b>
