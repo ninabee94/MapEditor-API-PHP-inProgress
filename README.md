@@ -4,24 +4,19 @@
 
       //find and stop other process running at port 3306
 
-      netstat -ano|findstr "PID :3306"
-     
+      netstat -ano|findstr "PID :3306"     
       taskkill /pid 3404 /f
 
-2. Open http://localhost/phpmyadmin
+<b>2. Open http://localhost/phpmyadmin</b>
 
-3. Create these tables
+<b>3. Create these tables</b>
 
-      id (int 255, PRIMARY KEY, UNSIGNED, AUTO INCREMENT)
-     
-      latitude (double)
-     
-      longitude (double)
-     
-      name (varchar 255)
-     
+      id (int 255, PRIMARY KEY, UNSIGNED, AUTO INCREMENT)     
+      latitude (double)     
+      longitude (double)     
+      name (varchar 255)     
       icon (longblob, BROWSER DISPLAY TRANS:Inline image/png)
 
-2. Create new folder at C:\XAMPP\htdocs\mapeditor\ to put php files
+<b>2. Create new folder at C:\XAMPP\htdocs\mapeditor\ to put php files</b>
 
-3. Open http://localhost/mapeditor/view.php
+<b>3. Open http://localhost/mapeditor/view.php</b>
