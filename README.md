@@ -1,5 +1,8 @@
 # MapEditor-API-PHP-inProgress
 
+     frontend (Ionic): https://github.com/ninabee94/MapEditor-Ionic4-inProgress
+     backend (PHP): https://github.com/ninabee94/MapEditor-API-PHP-inProgress
+
 <b>1. Start XAMPP, then Apache & MySQL</b>
 
       //find and stop other process running at port 3306
