@@ -1,6 +1,6 @@
 # MapEditor-API-PHP-inProgress
 
-1. Start XAMPP, then Apache & MySQL
+<b>1. Start XAMPP, then Apache & MySQL</b>
 
       //find and stop other process running at port 3306
 
